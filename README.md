@@ -1,6 +1,6 @@
 # Projet bibliothèque numérique
 
-Serveur web en Go représentant une bibliothèque. Le site permet d'afficher la liste des livres avec différents champs. Le site possède aussi une page pour chaque livre permettant de les afficher individuellement.
+Serveur web en Go représentant une bibliothèque. Le site permet d'afficher la liste des livres avec différents champs. Elle permet d’afficher les informations d’un livre (titre, auteur, année). Le site possède aussi une page pour chaque livre permettant de les afficher individuellement.
 
 ## Installation
 
