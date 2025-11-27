@@ -1,0 +1,32 @@
+# Fichiers Go générés
+go.mod
+go.sum
+
+# Binaires
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Fichiers de test
+*.test
+*.out
+
+# Dépendances
+/vendor/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Fichiers temporaires
+*.log
+*.tmp
